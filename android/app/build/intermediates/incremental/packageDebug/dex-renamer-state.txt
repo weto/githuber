@@ -1,0 +1,4 @@
+#Sun Nov 19 18:02:08 BRST 2017
+base.0=/home/weto/workspace_android/githuber/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/weto/workspace_android/githuber/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
