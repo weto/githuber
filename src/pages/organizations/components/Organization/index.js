@@ -8,7 +8,7 @@ export default class Organization extends Component {
   static propTypes = {
     organization: PropTypes.shape({
       avatar_url: PropTypes.string,
-      login: PropTypes.number,
+      login: PropTypes.string,
     }).isRequired,
   }
 
